@@ -44,7 +44,7 @@
 - Storybook
 - Recoil
 - React Hooks
-- ReactQuery
+- TanStack Query(旧React Query)
 - aspida
 
 ### 実装内容
