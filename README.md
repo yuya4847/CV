@@ -42,6 +42,21 @@ MB向けのAPIの設計・実装から、一部機能のWeb版の開発を担当
 使用技術:
 Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js
 
+担当業務:
+
+実装内容:
+- alpha版のサービスからの機能移植
+- モバイルにあった通知機能のWeb版の実装(必要カラムの追加・リンク追加・マークアップ・ページネーション追加)
+- 
+
+その他:
+- タスク分解・工数見積もり
+- Web版機能の一部QA対応
+- Terraformによるインフラリソースの変更(IAMの権限変更、S3の追加等)
+- 自分の詳しかった論文キュレーション機能に関して、新規メンバーへの説明(資料作成・説明・質疑応答等)
+- Dependabotのバージョンアップ対応
+- 
+
 ### プロジェクト名: MedPeer(医師・医学生のための医療情報サイト)
 
 概要:<br>
@@ -55,6 +70,15 @@ Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js
 
 使用技術:
 Ruby, Ruby on Rails, JavaScript, Vue.js
+
+担当業務:
+
+実装内容:
+
+その他:
+- メール配信に係る処理のQAテストケースの作成
+- Redashによるデータ分析用クエリ作成(他の方の作成したもののレビュー)
+- コードレビュー(主にRails)
 
 ## Fiah株式会社
 - リンク: https://fiah.ai/
