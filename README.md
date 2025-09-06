@@ -52,7 +52,7 @@ Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js
 
 その他:
 - タスク分解・工数見積もり
-- Web版機能の一部QA対応
+- 一部Web版機能のQA対応
 - 自分の詳しかった論文キュレーション機能に関して、新規メンバーへの紹介(資料作成・説明・質疑応答等)
 - Dependabotのバージョンアップ対応
 - 管理画面からHTMLコンテンツの入稿作業
