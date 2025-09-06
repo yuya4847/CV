@@ -46,6 +46,8 @@ Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js
 
 実装内容:
 - alpha版のサービスからの機能移植
+- 管理画面のアカウントロック・解除機能
+- 
 - モバイルにあった通知機能のWeb版の実装(必要カラムの追加・リンク追加・マークアップ・ページネーション追加)
 - Terraformによるインフラリソースの変更(IAMの権限変更、S3の追加等)
 - KARTE導入(計測タグ追加)
